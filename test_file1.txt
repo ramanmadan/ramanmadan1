@@ -1,5 +1,9 @@
 testing 123 VC code
 now lets see this somewhere
 trying again
+<<<<<<< HEAD
 does it work backwards also
 https://github.com/ramanmadan/ramanmadan1/blob/cfd4e641508e03efb1654539b901ac4f22657e85/test_file1.txt#L5
+=======
+does it work backwards also - Yes
+>>>>>>> cd337d32ed9c8d89266ac6dfad4bb8424c365cd8
