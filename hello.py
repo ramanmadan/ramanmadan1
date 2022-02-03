@@ -1,4 +1,4 @@
-msg = "Hello Hello"
-print(msg)
+msg1 = "Hello Hello"
+print(msg1)
 
 
